@@ -5,7 +5,7 @@
             "main": "src/index.ts",
             "candid": "src/index.did",
             "build": "npx azle another",
-            "wasm": "azle/another/another.wasm",
+            "wasm": "azle/another/another.asm",
             "zip": true
         }
     }
